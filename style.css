@@ -65,9 +65,9 @@ body {
   text-transform: uppercase;
   letter-spacing: var(--mainSpacing);
   font-size: 1rem;
-  background: var(--primaryColor);
-  color: var(--mainBlack);
-  border: 1px solid var(--primaryColor);
+  background: #047DBF;
+  color: #fff;
+  border: 1px solid #fff;
   transition: var(--mainTransition);
   cursor: pointer;
 }
@@ -110,7 +110,8 @@ body {
   opacity: 0.5;
 }
 .item-btn{
-  background: var(--primaryColor);
+  background: #047DBF;
+  color: #fff;
   letter-spacing: var(--mainSpacing);
   font-weight: bold;
   cursor: pointer;
