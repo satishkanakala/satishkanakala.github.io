@@ -270,7 +270,7 @@ body {
 }
 .fa-chevron-up,
 .fa-chevron-down {
-  color: var(--primaryColor);
+  color: #047DBF;
   cursor: pointer;
 }
 /*---------- End of Cart Item -------------------- */
