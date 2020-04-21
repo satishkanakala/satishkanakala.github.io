@@ -204,7 +204,7 @@ body {
     width: 100vw;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(125px, 1fr));
     grid-column-gap: 0.5rem;
     grid-row-gap: 0.5rem;
   }
