@@ -103,7 +103,7 @@ body {
 .product-img {
   display: block;
   width: 100%;
-  min-height: 12rem;
+  min-height: 6rem;
   transition: var(--mainTransition);
 }
 .img-container:hover .product-img {
@@ -118,7 +118,8 @@ body {
   padding: 0.5rem 0.75rem;
   border-radius: 20px;
   border: 0px;
-  margin-left: 35px;
+  margin: auto;
+  display: block;
 }
 .product h3 {
   text-transform: capitalize;
@@ -198,6 +199,14 @@ body {
   .close-cart {
     font-size: 0.7rem;
     cursor: pointer;
+  }
+  .products-center {
+    width: 100vw;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(75px, 1fr));
+    grid-column-gap: 0.5rem;
+    grid-row-gap: 0.5rem;
   }
 }
 
