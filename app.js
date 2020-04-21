@@ -187,6 +187,44 @@ class Storage {
     }
 }
 
+document.getElementById('ltoh').onclick=function(){
+    const ui = new UI();
+    const products = new Products();
+    ui.setUpApp();
+    //get all products
+    products.getProducts().then(products => {
+        console.log(products);
+        products.sort(function(a,b){
+            return a.price-b.price
+        })
+        console.log(products);
+        ui.displyProducts(products);
+        Storage.saveProducts(products);
+    }).then(() => {
+        ui.getBagButtons();
+        ui.cartLogic();
+    });
+}
+
+document.getElementById('htol').onclick=function(){
+    const ui = new UI();
+    const products = new Products();
+    ui.setUpApp();
+    //get all products
+    products.getProducts().then(products => {
+        console.log(products);
+        products.sort(function(a,b){
+            return b.price-a.price
+        })
+        console.log(products);
+        ui.displyProducts(products);
+        Storage.saveProducts(products);
+    }).then(() => {
+        ui.getBagButtons();
+        ui.cartLogic();
+    });
+}
+
 document.addEventListener("DOMContentLoaded", () => {
     const ui = new UI();
     const products = new Products();

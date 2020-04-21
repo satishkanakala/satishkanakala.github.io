@@ -78,7 +78,7 @@ body {
 /* --------------- Products ---------------- */
 
 .products {
-  padding: 4rem 0;
+  padding: 2rem 0;
 }
 .products-center {
   width: 90vw;
@@ -88,6 +88,18 @@ body {
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   grid-column-gap: 1.5rem;
   grid-row-gap: 2rem;
+}
+.sortBy{
+  width: 50vw;
+  display: block;
+  margin: auto;
+  margin-bottom: 25px;
+  font-weight: bold;
+}
+.price-filter{
+  margin: 10%;
+  color:#047DBF;
+  cursor: pointer;
 }
 .img-container {
   position: relative;
@@ -208,8 +220,15 @@ body {
     grid-column-gap: 0.5rem;
     grid-row-gap: 0.5rem;
   }
+  .sortBy {
+    width: 90vw;
+    font-size: 15px;
 }
-
+.price-filter {
+  margin: 2%;
+  font-size: 14px;
+}
+}
 
 .close-cart {
   font-size: 1.7rem;
