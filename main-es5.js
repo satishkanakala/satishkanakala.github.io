@@ -704,7 +704,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       },
       directives: [_angular_forms__WEBPACK_IMPORTED_MODULE_2__["DefaultValueAccessor"], _angular_forms__WEBPACK_IMPORTED_MODULE_2__["NgControlStatus"], _angular_forms__WEBPACK_IMPORTED_MODULE_2__["NgModel"], _angular_common__WEBPACK_IMPORTED_MODULE_3__["NgIf"], _angular_common__WEBPACK_IMPORTED_MODULE_3__["NgForOf"]],
       pipes: [_pipes_filter_pipe__WEBPACK_IMPORTED_MODULE_4__["FilterPipe"]],
-      styles: [".serchItem[_ngcontent-%COMP%]{\r\n  position: absolute;\r\n  top: 3%;\r\n  left: 77%;\r\n  z-index: 3;\r\n}\r\n.searchInput[_ngcontent-%COMP%]{\r\n  border: 3px solid #333333;\r\n  height: 33px;\r\n  width: 160px;\r\n  border-radius: 30px;\r\n  padding: 0px 10px;\r\n}\r\n@media screen and (max-width: 468px) {\r\n  .serchItem[_ngcontent-%COMP%]{\r\n    position: fixed;\r\n    top: 2.5%;\r\n    left: 50%;\r\n    z-index: 3;\r\n  }\r\n  .searchInput[_ngcontent-%COMP%]{\r\n    border: 2px solid #333333;\r\n    height: 30px;\r\n    width: 125px;\r\n    border-radius: 25px;\r\n    padding: 0px 5px;\r\n  }\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9jYXJ0L2NhcnQuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLGtCQUFrQjtFQUNsQixPQUFPO0VBQ1AsU0FBUztFQUNULFVBQVU7QUFDWjtBQUNBO0VBQ0UseUJBQXlCO0VBQ3pCLFlBQVk7RUFDWixZQUFZO0VBQ1osbUJBQW1CO0VBQ25CLGlCQUFpQjtBQUNuQjtBQUNBO0VBQ0U7SUFDRSxlQUFlO0lBQ2YsU0FBUztJQUNULFNBQVM7SUFDVCxVQUFVO0VBQ1o7RUFDQTtJQUNFLHlCQUF5QjtJQUN6QixZQUFZO0lBQ1osWUFBWTtJQUNaLG1CQUFtQjtJQUNuQixnQkFBZ0I7RUFDbEI7QUFDRiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvY2FydC9jYXJ0LmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuc2VyY2hJdGVte1xyXG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcclxuICB0b3A6IDMlO1xyXG4gIGxlZnQ6IDc3JTtcclxuICB6LWluZGV4OiAzO1xyXG59XHJcbi5zZWFyY2hJbnB1dHtcclxuICBib3JkZXI6IDNweCBzb2xpZCAjMzMzMzMzO1xyXG4gIGhlaWdodDogMzNweDtcclxuICB3aWR0aDogMTYwcHg7XHJcbiAgYm9yZGVyLXJhZGl1czogMzBweDtcclxuICBwYWRkaW5nOiAwcHggMTBweDtcclxufVxyXG5AbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA0NjhweCkge1xyXG4gIC5zZXJjaEl0ZW17XHJcbiAgICBwb3NpdGlvbjogZml4ZWQ7XHJcbiAgICB0b3A6IDIuNSU7XHJcbiAgICBsZWZ0OiA1MCU7XHJcbiAgICB6LWluZGV4OiAzO1xyXG4gIH1cclxuICAuc2VhcmNoSW5wdXR7XHJcbiAgICBib3JkZXI6IDJweCBzb2xpZCAjMzMzMzMzO1xyXG4gICAgaGVpZ2h0OiAzMHB4O1xyXG4gICAgd2lkdGg6IDEyNXB4O1xyXG4gICAgYm9yZGVyLXJhZGl1czogMjVweDtcclxuICAgIHBhZGRpbmc6IDBweCA1cHg7XHJcbiAgfVxyXG59XHJcbiJdfQ== */"]
+      styles: [".serchItem[_ngcontent-%COMP%]{\r\n  position: absolute;\r\n  top: 3%;\r\n  left: 77%;\r\n  z-index: 3;\r\n}\r\n.searchInput[_ngcontent-%COMP%]{\r\n  border: 3px solid #333333;\r\n  height: 33px;\r\n  width: 160px;\r\n  border-radius: 22px;\r\n  padding: 0px 10px;\r\n}\r\n@media screen and (max-width: 468px) {\r\n  .serchItem[_ngcontent-%COMP%]{\r\n    position: fixed;\r\n    top: 2.5%;\r\n    left: 32%;\r\n    z-index: 3;\r\n  }\r\n  .searchInput[_ngcontent-%COMP%]{\r\n    border: 2px solid #333333;\r\n    height: 30px;\r\n    width: 125px;\r\n    border-radius: 20px;\r\n    padding: 0px 5px;\r\n  }\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9jYXJ0L2NhcnQuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLGtCQUFrQjtFQUNsQixPQUFPO0VBQ1AsU0FBUztFQUNULFVBQVU7QUFDWjtBQUNBO0VBQ0UseUJBQXlCO0VBQ3pCLFlBQVk7RUFDWixZQUFZO0VBQ1osbUJBQW1CO0VBQ25CLGlCQUFpQjtBQUNuQjtBQUNBO0VBQ0U7SUFDRSxlQUFlO0lBQ2YsU0FBUztJQUNULFNBQVM7SUFDVCxVQUFVO0VBQ1o7RUFDQTtJQUNFLHlCQUF5QjtJQUN6QixZQUFZO0lBQ1osWUFBWTtJQUNaLG1CQUFtQjtJQUNuQixnQkFBZ0I7RUFDbEI7QUFDRiIsImZpbGUiOiJzcmMvYXBwL2NvbXBvbmVudHMvY2FydC9jYXJ0LmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuc2VyY2hJdGVte1xyXG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcclxuICB0b3A6IDMlO1xyXG4gIGxlZnQ6IDc3JTtcclxuICB6LWluZGV4OiAzO1xyXG59XHJcbi5zZWFyY2hJbnB1dHtcclxuICBib3JkZXI6IDNweCBzb2xpZCAjMzMzMzMzO1xyXG4gIGhlaWdodDogMzNweDtcclxuICB3aWR0aDogMTYwcHg7XHJcbiAgYm9yZGVyLXJhZGl1czogMjJweDtcclxuICBwYWRkaW5nOiAwcHggMTBweDtcclxufVxyXG5AbWVkaWEgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiA0NjhweCkge1xyXG4gIC5zZXJjaEl0ZW17XHJcbiAgICBwb3NpdGlvbjogZml4ZWQ7XHJcbiAgICB0b3A6IDIuNSU7XHJcbiAgICBsZWZ0OiAzMiU7XHJcbiAgICB6LWluZGV4OiAzO1xyXG4gIH1cclxuICAuc2VhcmNoSW5wdXR7XHJcbiAgICBib3JkZXI6IDJweCBzb2xpZCAjMzMzMzMzO1xyXG4gICAgaGVpZ2h0OiAzMHB4O1xyXG4gICAgd2lkdGg6IDEyNXB4O1xyXG4gICAgYm9yZGVyLXJhZGl1czogMjBweDtcclxuICAgIHBhZGRpbmc6IDBweCA1cHg7XHJcbiAgfVxyXG59XHJcbiJdfQ== */"]
     });
     /*@__PURE__*/
 
@@ -1009,11 +1009,11 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       if (rf & 1) {
         var _r11 = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵgetCurrentView"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "article", 17);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "article", 27);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 18);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](1, "div", 28);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "img", 19);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](2, "img", 29);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -1027,13 +1027,13 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6);
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "del", 20);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "del", 30);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](8);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "span", 21);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](9, "span", 31);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](10);
 
@@ -1041,7 +1041,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "button", 22);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](11, "button", 32);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function ProductListComponent_article_27_Template_button_click_11_listener() {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵrestoreView"](_r11);
@@ -1053,7 +1053,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
           return ctx_r10.handelAddToCart(item_r9);
         });
 
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "i", 23);
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](12, "i", 33);
 
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](13, "Add to Cart");
 
@@ -1089,6 +1089,12 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       }
     }
 
+    var _c0 = function _c0(a0) {
+      return {
+        "show": a0
+      };
+    };
+
     var ProductListComponent =
     /*#__PURE__*/
     function () {
@@ -1108,6 +1114,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
         _classCallCheck(this, ProductListComponent);
 
         this.cartService = cartService;
+        this.showModel = false;
 
         this.handleRangeSlider = function (opts) {
           _this3.productListItems = _this3.cartService.getProductList();
@@ -1145,6 +1152,11 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
       _createClass(ProductListComponent, [{
         key: "ngOnInit",
         value: function ngOnInit() {}
+      }, {
+        key: "showModelPop",
+        value: function showModelPop() {
+          this.showModel = true;
+        }
       }]);
 
       return ProductListComponent;
@@ -1157,9 +1169,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
     ProductListComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComponent"]({
       type: ProductListComponent,
       selectors: [["app-product-list"]],
-      decls: 29,
-      vars: 9,
-      consts: [[1, "list-container"], [1, "slider-container"], [2, "margin-bottom", "2em"], [3, "min", "max", "step", "showStepIndicator", "onChange"], [1, "rangeprice-filter"], [1, "products"], [1, "sortBy"], ["id", "ltoh", 1, "price-filter", 3, "click"], ["id", "htol", 1, "price-filter", 3, "click"], [1, "mobile-filter"], [1, "item-btn"], [1, "fas", "fa-sort"], [1, "fas", "fa-filter"], [1, "serchItem"], ["type", "text", "placeholder", "Serch Product", 1, "searchInput", 3, "ngModel", "ngModelChange"], [1, "products-center"], ["class", "product", 4, "ngFor", "ngForOf"], [1, "product"], [1, "img-container"], ["alt", "item", 1, "product-img", 3, "src"], [1, "delPrice"], [1, "discPrice"], [1, "item-btn", 3, "click"], [1, "fas", "fa-shopping-cart"]],
+      decls: 42,
+      vars: 12,
+      consts: [[1, "list-container"], [1, "slider-container"], [2, "margin-bottom", "2em"], [3, "min", "max", "step", "showStepIndicator", "onChange"], [1, "rangeprice-filter"], [1, "products"], [1, "sortBy"], ["id", "ltoh", 1, "price-filter", 3, "click"], ["id", "htol", 1, "price-filter", 3, "click"], [1, "mobile-filter"], ["type", "button", "data-toggle", "modal", "data-target", "#myModal", 1, "mobile-filter-btn", 3, "click"], [1, "fas", "fa-sort"], [1, "mobile-filter-btn"], [1, "fas", "fa-filter"], [1, "serchItem"], ["type", "text", "placeholder", "Serch Product", 1, "searchInput", 3, "ngModel", "ngModelChange"], [1, "products-center"], ["class", "product", 4, "ngFor", "ngForOf"], ["id", "myModal", 1, "modal", 3, "ngClass"], [1, "modal-dialog"], [1, "modal-content"], [1, "modal-header"], [1, "modal-title"], ["type", "button", "data-dismiss", "modal", 1, "close"], [1, "modal-body"], [1, "modal-footer"], ["type", "button", "data-dismiss", "modal", 1, "btn", "btn-danger"], [1, "product"], [1, "img-container"], ["alt", "item", 1, "product-img", 3, "src"], [1, "delPrice"], [1, "discPrice"], [1, "item-btn", 3, "click"], [1, "fas", "fa-shopping-cart"]],
       template: function ProductListComponent_Template(rf, ctx) {
         if (rf & 1) {
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](0, "body");
@@ -1232,6 +1244,10 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](18, "button", 10);
 
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("click", function ProductListComponent_Template_button_click_18_listener() {
+            return ctx.showModel = true;
+          });
+
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](19, "i", 11);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](20, "Sort");
@@ -1240,9 +1256,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](21, "button", 10);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](21, "button", 12);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "i", 12);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](22, "i", 13);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](23, "Filter");
 
@@ -1252,9 +1268,9 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "div", 13);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](24, "div", 14);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](25, "input", 14);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](25, "input", 15);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵlistener"]("ngModelChange", function ProductListComponent_Template_input_ngModelChange_25_listener($event) {
             return ctx.serchParam = $event;
@@ -1264,11 +1280,55 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](26, "div", 15);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](26, "div", 16);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](27, ProductListComponent_article_27_Template, 14, 5, "article", 16);
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtemplate"](27, ProductListComponent_article_27_Template, 14, 5, "article", 17);
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipe"](28, "filter");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](29, "div", 18);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](30, "div", 19);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](31, "div", 20);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](32, "div", 21);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](33, "h4", 22);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](34, "Modal Heading");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](35, "button", 23);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](36, "\xD7");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](37, "div", 24);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](38, " Modal body.. ");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](39, "div", 25);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](40, "button", 26);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](41, "Close");
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
 
@@ -1290,12 +1350,16 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
 
           _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
 
-          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngForOf", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipeBind2"](28, 6, ctx.productListItems, ctx.serchParam));
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngForOf", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpipeBind2"](28, 7, ctx.productListItems, ctx.serchParam));
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵadvance"](2);
+
+          _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵproperty"]("ngClass", _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵpureFunction1"](10, _c0, ctx.showModel));
         }
       },
-      directives: [npn_slider__WEBPACK_IMPORTED_MODULE_2__["NpnSliderComponent"], _angular_forms__WEBPACK_IMPORTED_MODULE_3__["DefaultValueAccessor"], _angular_forms__WEBPACK_IMPORTED_MODULE_3__["NgControlStatus"], _angular_forms__WEBPACK_IMPORTED_MODULE_3__["NgModel"], _angular_common__WEBPACK_IMPORTED_MODULE_4__["NgForOf"]],
+      directives: [npn_slider__WEBPACK_IMPORTED_MODULE_2__["NpnSliderComponent"], _angular_forms__WEBPACK_IMPORTED_MODULE_3__["DefaultValueAccessor"], _angular_forms__WEBPACK_IMPORTED_MODULE_3__["NgControlStatus"], _angular_forms__WEBPACK_IMPORTED_MODULE_3__["NgModel"], _angular_common__WEBPACK_IMPORTED_MODULE_4__["NgForOf"], _angular_common__WEBPACK_IMPORTED_MODULE_4__["NgClass"]],
       pipes: [_pipes_filter_pipe__WEBPACK_IMPORTED_MODULE_5__["FilterPipe"]],
-      styles: [".serchItem[_ngcontent-%COMP%]{\r\n  position: absolute;\r\n  top: 3%;\r\n  left: 77%;\r\n  z-index: 3;\r\n}\r\n.searchInput[_ngcontent-%COMP%]{\r\n  border: 3px solid #333333;\r\n  height: 33px;\r\n  width: 160px;\r\n  border-radius: 30px;\r\n  padding: 0px 10px;\r\n}\r\n@media screen and (max-width: 468px) {\r\n  .serchItem[_ngcontent-%COMP%]{\r\n    position: fixed;\r\n    top: 2.5%;\r\n    left: 46%;\r\n    z-index: 3;\r\n  }\r\n  .searchInput[_ngcontent-%COMP%]{\r\n    border: 2px solid #333333;\r\n    height: 30px;\r\n    width: 125px;\r\n    border-radius: 25px;\r\n    padding: 0px 5px;\r\n  }\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9wcm9kdWN0LWxpc3QvcHJvZHVjdC1saXN0LmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxrQkFBa0I7RUFDbEIsT0FBTztFQUNQLFNBQVM7RUFDVCxVQUFVO0FBQ1o7QUFDQTtFQUNFLHlCQUF5QjtFQUN6QixZQUFZO0VBQ1osWUFBWTtFQUNaLG1CQUFtQjtFQUNuQixpQkFBaUI7QUFDbkI7QUFDQTtFQUNFO0lBQ0UsZUFBZTtJQUNmLFNBQVM7SUFDVCxTQUFTO0lBQ1QsVUFBVTtFQUNaO0VBQ0E7SUFDRSx5QkFBeUI7SUFDekIsWUFBWTtJQUNaLFlBQVk7SUFDWixtQkFBbUI7SUFDbkIsZ0JBQWdCO0VBQ2xCO0FBQ0YiLCJmaWxlIjoic3JjL2FwcC9jb21wb25lbnRzL3Byb2R1Y3QtbGlzdC9wcm9kdWN0LWxpc3QuY29tcG9uZW50LmNzcyIsInNvdXJjZXNDb250ZW50IjpbIi5zZXJjaEl0ZW17XHJcbiAgcG9zaXRpb246IGFic29sdXRlO1xyXG4gIHRvcDogMyU7XHJcbiAgbGVmdDogNzclO1xyXG4gIHotaW5kZXg6IDM7XHJcbn1cclxuLnNlYXJjaElucHV0e1xyXG4gIGJvcmRlcjogM3B4IHNvbGlkICMzMzMzMzM7XHJcbiAgaGVpZ2h0OiAzM3B4O1xyXG4gIHdpZHRoOiAxNjBweDtcclxuICBib3JkZXItcmFkaXVzOiAzMHB4O1xyXG4gIHBhZGRpbmc6IDBweCAxMHB4O1xyXG59XHJcbkBtZWRpYSBzY3JlZW4gYW5kIChtYXgtd2lkdGg6IDQ2OHB4KSB7XHJcbiAgLnNlcmNoSXRlbXtcclxuICAgIHBvc2l0aW9uOiBmaXhlZDtcclxuICAgIHRvcDogMi41JTtcclxuICAgIGxlZnQ6IDQ2JTtcclxuICAgIHotaW5kZXg6IDM7XHJcbiAgfVxyXG4gIC5zZWFyY2hJbnB1dHtcclxuICAgIGJvcmRlcjogMnB4IHNvbGlkICMzMzMzMzM7XHJcbiAgICBoZWlnaHQ6IDMwcHg7XHJcbiAgICB3aWR0aDogMTI1cHg7XHJcbiAgICBib3JkZXItcmFkaXVzOiAyNXB4O1xyXG4gICAgcGFkZGluZzogMHB4IDVweDtcclxuICB9XHJcbn1cclxuIl19 */"]
+      styles: [".serchItem[_ngcontent-%COMP%]{\r\n  position: absolute;\r\n  top: 3%;\r\n  left: 77%;\r\n  z-index: 3;\r\n}\r\n.searchInput[_ngcontent-%COMP%]{\r\n  border: 3px solid #333333;\r\n  height: 33px;\r\n  width: 160px;\r\n  border-radius: 22px;\r\n  padding: 0px 10px;\r\n}\r\n@media screen and (max-width: 468px) {\r\n\r\n  .serchItem[_ngcontent-%COMP%]{\r\n    position: fixed;\r\n    top: 2.5%;\r\n    left: 32%;\r\n    z-index: 3;\r\n  }\r\n  .searchInput[_ngcontent-%COMP%]{\r\n    border: 2px solid #333333;\r\n    height: 30px;\r\n    width: 125px;\r\n    border-radius: 20px;\r\n    padding: 0px 5px;\r\n  }\r\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY29tcG9uZW50cy9wcm9kdWN0LWxpc3QvcHJvZHVjdC1saXN0LmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7RUFDRSxrQkFBa0I7RUFDbEIsT0FBTztFQUNQLFNBQVM7RUFDVCxVQUFVO0FBQ1o7QUFDQTtFQUNFLHlCQUF5QjtFQUN6QixZQUFZO0VBQ1osWUFBWTtFQUNaLG1CQUFtQjtFQUNuQixpQkFBaUI7QUFDbkI7QUFFQTs7RUFFRTtJQUNFLGVBQWU7SUFDZixTQUFTO0lBQ1QsU0FBUztJQUNULFVBQVU7RUFDWjtFQUNBO0lBQ0UseUJBQXlCO0lBQ3pCLFlBQVk7SUFDWixZQUFZO0lBQ1osbUJBQW1CO0lBQ25CLGdCQUFnQjtFQUNsQjtBQUNGIiwiZmlsZSI6InNyYy9hcHAvY29tcG9uZW50cy9wcm9kdWN0LWxpc3QvcHJvZHVjdC1saXN0LmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIuc2VyY2hJdGVte1xyXG4gIHBvc2l0aW9uOiBhYnNvbHV0ZTtcclxuICB0b3A6IDMlO1xyXG4gIGxlZnQ6IDc3JTtcclxuICB6LWluZGV4OiAzO1xyXG59XHJcbi5zZWFyY2hJbnB1dHtcclxuICBib3JkZXI6IDNweCBzb2xpZCAjMzMzMzMzO1xyXG4gIGhlaWdodDogMzNweDtcclxuICB3aWR0aDogMTYwcHg7XHJcbiAgYm9yZGVyLXJhZGl1czogMjJweDtcclxuICBwYWRkaW5nOiAwcHggMTBweDtcclxufVxyXG5cclxuQG1lZGlhIHNjcmVlbiBhbmQgKG1heC13aWR0aDogNDY4cHgpIHtcclxuXHJcbiAgLnNlcmNoSXRlbXtcclxuICAgIHBvc2l0aW9uOiBmaXhlZDtcclxuICAgIHRvcDogMi41JTtcclxuICAgIGxlZnQ6IDMyJTtcclxuICAgIHotaW5kZXg6IDM7XHJcbiAgfVxyXG4gIC5zZWFyY2hJbnB1dHtcclxuICAgIGJvcmRlcjogMnB4IHNvbGlkICMzMzMzMzM7XHJcbiAgICBoZWlnaHQ6IDMwcHg7XHJcbiAgICB3aWR0aDogMTI1cHg7XHJcbiAgICBib3JkZXItcmFkaXVzOiAyMHB4O1xyXG4gICAgcGFkZGluZzogMHB4IDVweDtcclxuICB9XHJcbn1cclxuIl19 */"]
     });
     /*@__PURE__*/
 
@@ -1785,7 +1849,7 @@ function _classCallCheck(instance, Constructor) { if (!(instance instanceof Cons
   /***/
   function _(module, exports, __webpack_require__) {
     module.exports = __webpack_require__(
-    /*! D:\satish\Angular-9\AngularAssignment\EcomCart\src\main.ts */
+    /*! D:\satish\Angular-9\AngularAssignment\ShopCart\src\main.ts */
     "./src/main.ts");
     /***/
   }
