@@ -1,0 +1,9 @@
+{
+  "HOME" : {
+    "DES": "Nombre de cas actifs de Covid-19",
+    "INFECTED": "Infecté",
+    "DEATHS": "Décès",
+    "RECOVERED": "Rétablie",
+    "SELECT": "Choisir la langue"
+  }
+}

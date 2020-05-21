@@ -1,0 +1,9 @@
+{
+  "HOME" : {
+    "INFECTED": "Infected",
+    "DEATHS": "Deaths",
+    "RECOVERED": "Recovered",
+    "DES": "Number of active cases of Covid-19",
+    "SELECT": "Select Language"
+  }
+}
